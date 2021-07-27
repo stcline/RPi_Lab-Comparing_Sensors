@@ -36,6 +36,8 @@ Construct each of the prototypes using the diagrams below:
     3. `sudo python3 limit.py`
     4. `sudo python3 ultrasonic.py`
     4. `sudo python3 humiture.py`
+    
+Looks like it might need some Adafruit to work: https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/
 
 Each script is for a different prototype.  Run each script and compare the results.
 
