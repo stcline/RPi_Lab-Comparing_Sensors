@@ -25,6 +25,10 @@ Construct each of the prototypes using the diagrams below:
 
 ![Limit Switch Circuit](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/SPDT_Pull_up_RPi.JPG?raw=true)
 
+#### Ultrasonic Sensor
+
+![Ultrasonic Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/HC-SR04_RPi.JPG?raw=true)
+
 
 ### Code Execution
     1. `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
