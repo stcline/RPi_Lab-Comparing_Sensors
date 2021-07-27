@@ -20,6 +20,8 @@ You will need the following components from your kit for this assignment:
 
 ### Prototpypes
 Construct each of the prototypes using the diagrams below:
+
+####Limit Switch
 ![Limit Switch Circuit](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/SPDT_Pull_up_RPi.JPG?raw=true)
 
 
