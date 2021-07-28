@@ -60,7 +60,7 @@ Now that you have had a chance to play around with the different sensor types, a
 
 ## 📚  Resources 
 
-[Robot Perception](http://www.cs.cmu.edu/~rasc/Download/AMRobots4.pdf)
-[DHT11 Temperature and Humidity Sensor and the Raspberry Pi](https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/)
-[Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04)](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
-[VIDEO:Pull up & Pull down Resistors in 5 mins](https://www.youtube.com/watch?v=hG_AVuuXatw)
+- [Robot Perception](http://www.cs.cmu.edu/~rasc/Download/AMRobots4.pdf)
+- [DHT11 Temperature and Humidity Sensor and the Raspberry Pi](https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/)
+- [Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04)](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
+- [VIDEO:Pull up & Pull down Resistors in 5 mins](https://www.youtube.com/watch?v=hG_AVuuXatw)
