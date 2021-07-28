@@ -46,6 +46,14 @@ Each script is for a different prototype.  Run each script and compare the resul
 
 ## 💻 Terms to know
 
+**Active Sensors**: An active sensor is one which transmits a signal into the environment and then measures the response that comes back.
+
+**Passive Sensors**: A passive sensor is one which just ‘listens’ to what is happening.
+
+**Proprioceptive Sensors**: A proprioceptive sensor measures values internal to the system (robot).
+
+**Exteroceptive Sensors**: An Exteroceptive sensor acquires information from the robot’s environment.
+
 ## 📝 Next steps (Graded)
 
 Now that you have had a chance to play around with the different sensor types, answer the questions below in a markdown file in this repo called "responses.md".  Then describe how these sensors could be used in an autonomous robotic system.  Be sure to properly use **ALL** of the terms listed in this document in your responses.  Save those descriptions in a markdown file in this repo called "applications.md".
