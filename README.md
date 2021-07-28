@@ -59,3 +59,8 @@ Each script is for a different prototype.  Run each script and compare the resul
 Now that you have had a chance to play around with the different sensor types, answer the questions below in a markdown file in this repo called "responses.md".  Then describe how these sensors could be used in an autonomous robotic system.  Be sure to properly use **ALL** of the terms listed in this document in your responses.  Save those descriptions in a markdown file in this repo called "applications.md".
 
 ## 📚  Resources 
+
+[Robot Perception](http://www.cs.cmu.edu/~rasc/Download/AMRobots4.pdf)
+[DHT11 Temperature and Humidity Sensor and the Raspberry Pi](https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/)
+[Using a Raspberry Pi distance sensor (ultrasonic sensor HC-SR04)](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
+[VIDEO:Pull up & Pull down Resistors in 5 mins](https://www.youtube.com/watch?v=hG_AVuuXatw)
