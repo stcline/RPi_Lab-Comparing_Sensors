@@ -45,4 +45,6 @@ Each script is for a different prototype.  Run each script and compare the resul
 
 ## 📝 Next steps
 
+Now that you have had a chance to play around with the different sensor types, answer the questions below in a markdown file in this repo called "responses.md".  Then describe how these sensors could be used in an autonomous robotic system.  Be sure to properly use **ALL** of the terms listed in this document in your responses.  Save those descriptions in a markdown file in this repo called "applications.md".
+
 ## 📚  Resources 
