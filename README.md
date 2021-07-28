@@ -29,9 +29,9 @@ Construct each of the prototypes using the diagrams below:
 
 ![Ultrasonic Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/HC-SR04_RPi.JPG?raw=true)
 
-#### Humistor Sensor
+#### Humiture Sensor
 
-![Humistor Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/DHT11_Sensor_RPi.JPG?raw=true)
+![Humiture Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/DHT11_Sensor_RPi.JPG?raw=true)
 
 ### Code Execution
     1. `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
