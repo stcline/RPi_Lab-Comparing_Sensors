@@ -37,43 +37,43 @@ Construct each of the prototypes using the diagrams below:
 
 1. Start by cloning the repository for this lab:
 
-`git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
+  `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
 
-`cd RPi_Lab-Comparing_Sensors`
+  `cd RPi_Lab-Comparing_Sensors`
 
 2. Each script is for a different prototype.  Run each script and compare the results.
 
-`sudo python3 limit.py`
+  `sudo python3 limit.py`
 
-`sudo python3 ultrasonic.py`
+  `sudo python3 ultrasonic.py`
 
 3. For the last part of the project some additional packages will need to be installed.
 
 - To start, update your package lists and install a few Python libraries :
 
-`cd ..`
+  `cd ..`
 
-`sudo apt-get update`
+  `sudo apt-get update`
 
-`sudo apt-get install build-essential python-dev`
+  `sudo apt-get install build-essential python-dev`
 
 - Clone the Adafruit library from their repository :
 
-`git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
+  `git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
 
-`cd Adafruit_Python_DHT`
+  `cd Adafruit_Python_DHT`
 
 - Install the library for Python 2 and Python 3 :
 
-`sudo python setup.py install`
+  `sudo python setup.py install`
 
-`sudo python3 setup.py install`
+  `sudo python3 setup.py install`
 
 4. Change the working directory back to the cloned project:
 
-`cd /home/pi/Raspberry-Pi-Servo-Control`
+  `cd /home/pi/Raspberry-Pi-Servo-Control`
 
-`sudo python3 humiture.py`
+  `sudo python3 humiture.py`
     
 # Finish the lesson using the DHT11 tutorial and test everything out.
 
