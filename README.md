@@ -35,19 +35,48 @@ Construct each of the prototypes using the diagrams below:
 
 ### Code Execution
 
+Start by cloning the repository for this lab:
+
 `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
 
 `cd RPi_Lab-Comparing_Sensors`
+
+Each script is for a different prototype.  Run each script and compare the results.
 
 `sudo python3 limit.py`
 
 `sudo python3 ultrasonic.py`
 
+For the last part of the project some additional packages will need to be installed.
+
+To start with update your package lists and install a few Python libraries :
+
+`cd ..`
+
+`sudo apt-get update`
+
+`sudo apt-get install build-essential python-dev`
+
+Then clone the Adafruit library from their repository :
+
+`git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
+
+`cd Adafruit_Python_DHT`
+
+Then install the library for Python 2 and Python 3 :
+
+`sudo python setup.py install`
+
+`sudo python3 setup.py install`
+
+Now change the working directory back to the cloned project:
+
+`cd /home/pi/Raspberry-Pi-Servo-Control`
+
 `sudo python3 humiture.py`
     
 Looks like it might need some Adafruit to work: https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/
 
-Each script is for a different prototype.  Run each script and compare the results.
 
 ## 💻 Terms to know
 
