@@ -34,11 +34,11 @@ Construct each of the prototypes using the diagrams below:
 ![Humiture Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/DHT11_Sensor_RPi.JPG?raw=true)
 
 ### Code Execution
-    1. `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
-    2. `cd RPi_Lab-Comparing_Sensors`
-    3. `sudo python3 limit.py`
-    4. `sudo python3 ultrasonic.py`
-    4. `sudo python3 humiture.py`
+`git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
+`cd RPi_Lab-Comparing_Sensors`
+`sudo python3 limit.py`
+`sudo python3 ultrasonic.py`
+`sudo python3 humiture.py`
     
 Looks like it might need some Adafruit to work: https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/
 
