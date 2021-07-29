@@ -58,6 +58,12 @@ Each script is for a different prototype.  Run each script and compare the resul
 
 Now that you have had a chance to play around with the different sensor types, answer the questions below in a markdown file in this repo called "responses.md".  Then describe how these sensors could be used in an autonomous robotic system.  Be sure to properly use **ALL** of the terms listed in this document in your responses.  Save those descriptions in a markdown file in this repo called "applications.md".
 
+### Questions
+
+1. What is the actual physical process that is allowing the Raspberry Pi to sense the environmnet?
+2. What are some environmental factors that might influence the performance of these sensors?
+3. What role does coding play in this process?
+
 ## 📚  Resources 
 
 - [Robot Perception](http://www.cs.cmu.edu/~rasc/Download/AMRobots4.pdf)
