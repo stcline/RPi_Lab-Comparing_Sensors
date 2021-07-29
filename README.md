@@ -35,12 +35,15 @@ Construct each of the prototypes using the diagrams below:
 
 ### Procedure: Code Execution
 
-1. Start by cloning the repository for this lab:
+1. Get the code and run the first two scripts:
+
+- Clone the repository and change the working directory.
+
   `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
 
   `cd RPi_Lab-Comparing_Sensors`
 
-2. Each script is for a different prototype.  Run each script and compare the results.
+- Each script is for a different prototype.  Run the first two scripts.
 
   `sudo python3 limit.py`
 
@@ -73,6 +76,8 @@ Construct each of the prototypes using the diagrams below:
   `cd /home/pi/Raspberry-Pi-Servo-Control`
 
   `sudo python3 humiture.py`
+  
+- Compare the results of the three prototypes.
     
 # Finish the lesson using the DHT11 tutorial and test everything out.
 
