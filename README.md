@@ -33,23 +33,23 @@ Construct each of the prototypes using the diagrams below:
 
 ![Humiture Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/DHT11_Sensor_RPi.JPG?raw=true)
 
-### Code Execution
+### Procedure: Code Execution
 
-Start by cloning the repository for this lab:
+1. Start by cloning the repository for this lab:
 
 `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
 
 `cd RPi_Lab-Comparing_Sensors`
 
-Each script is for a different prototype.  Run each script and compare the results.
+2. Each script is for a different prototype.  Run each script and compare the results.
 
 `sudo python3 limit.py`
 
 `sudo python3 ultrasonic.py`
 
-For the last part of the project some additional packages will need to be installed.
+3. For the last part of the project some additional packages will need to be installed.
 
-To start with update your package lists and install a few Python libraries :
+- To start, update your package lists and install a few Python libraries :
 
 `cd ..`
 
@@ -57,19 +57,19 @@ To start with update your package lists and install a few Python libraries :
 
 `sudo apt-get install build-essential python-dev`
 
-Then clone the Adafruit library from their repository :
+- Clone the Adafruit library from their repository :
 
 `git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
 
 `cd Adafruit_Python_DHT`
 
-Then install the library for Python 2 and Python 3 :
+- Install the library for Python 2 and Python 3 :
 
 `sudo python setup.py install`
 
 `sudo python3 setup.py install`
 
-Now change the working directory back to the cloned project:
+4. Change the working directory back to the cloned project:
 
 `cd /home/pi/Raspberry-Pi-Servo-Control`
 
