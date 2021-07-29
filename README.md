@@ -37,6 +37,7 @@ Construct each of the prototypes using the diagrams below:
 
 1. Start by cloning the repository for this lab:
 
+
   `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
 
   `cd RPi_Lab-Comparing_Sensors`
