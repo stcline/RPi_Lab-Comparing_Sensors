@@ -75,7 +75,7 @@ Now change the working directory back to the cloned project:
 
 `sudo python3 humiture.py`
     
-Looks like it might need some Adafruit to work: https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/
+# Finish the lesson using the DHT11 tutorial and test everything out.
 
 
 ## 💻 Terms to know
