@@ -71,13 +71,13 @@ Construct each of the prototypes using the diagrams below:
 
   `sudo python3 setup.py install`
 
-4. Change the working directory back to the cloned project:
+- Change the working directory back to the cloned project and run the last script.
 
   `cd /home/pi/Raspberry-Pi-Servo-Control`
 
   `sudo python3 humiture.py`
   
-- Compare the results of the three prototypes.
+4. Compare the results of the three prototypes.
     
 # Finish the lesson using the DHT11 tutorial and test everything out.
 
