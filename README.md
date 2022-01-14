@@ -29,7 +29,7 @@ Construct each of the prototypes using the diagrams below:
 
 ![Ultrasonic Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/HC-SR04_RPi.JPG?raw=true)
 
-#### Humiture Sensor
+#### Humiture Sensor - NOTE that the module you will be given allows us to omit the 10k Ohm resistor. 
 
 ![Humiture Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/DHT11_Sensor_RPi.JPG?raw=true)
 
@@ -49,38 +49,9 @@ Construct each of the prototypes using the diagrams below:
 
   `sudo python3 ultrasonic.py`
 
-3. For the last part of the project some additional packages will need to be installed.
-
-- To start, update your package lists and install a few Python libraries :
-
-  `cd ..`
-
-  `sudo apt-get update`
-
-  `sudo apt-get install build-essential python-dev`
-
-- Clone the Adafruit library from their repository :
-
-  `git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
-
-  `cd Adafruit_Python_DHT`
-
-- Install the library for Python 2 and Python 3 :
-
-  `sudo python setup.py install`
-
-  `sudo python3 setup.py install`
-
-- Change the working directory back to the cloned project and run the last script.
-
-  `cd /home/pi/Raspberry-Pi-Servo-Control`
-
-  `sudo python3 humiture.py`
+3. For the last part of the project using the humiture sensor, we will deviate from the python coding we have been doing and use the C language as our programming environment.  Follow the instructions on [this tutorial](https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/) to test out the sensor.  While you do not need to do the example that uses the LCD display, we have plenty of those if you would like to use one.
   
 4. Compare the results of the three prototypes.
-    
-# Finish the lesson using the DHT11 tutorial and test everything out.
-
 
 ## 💻 Terms to know
 
