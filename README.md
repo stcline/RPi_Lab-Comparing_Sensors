@@ -49,9 +49,15 @@ Construct each of the prototypes using the diagrams below:
 
   `sudo python3 ultrasonic.py`
 
-3. For the last part of the project using the humiture sensor, we will deviate from the python coding we have been doing and use the C language as our programming environment.  Follow the instructions on [this tutorial](https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/) to test out the sensor.  While you do not need to do the example that uses the LCD display, we have plenty of those if you would like to use one.
+2. For the last part of the project using the humiture sensor, we will deviate from the python coding we have been doing and use the C language as our programming environment.  Follow the instructions on [this tutorial](https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/) to test out the sensor.  
+  - NOTE: This tutorial uses the language C, rather than Python.  This has been chosen in order to demonstrate how other languages may be used with a Raspberry Pi.
+  - You will need to install WiringPi in order to use this example.  To do so:
+    1. Clone the repository using the commad `git clone https://github.com/WiringPi/WiringPi`.
+    2. Change the working directory to the newly cloned repository: `cd WiringPi`.
+    3. Run the command `./build` to install the tools to your Raspberry Pi.  Now you can use the examples in the tutorial.
+  - While you do not need to do the example that uses the LCD display, we have plenty of those if you would like to use one.
   
-4. Compare the results of the three prototypes.
+3. Compare the results of the three prototypes.
 
 ## 💻 Terms to know
 
